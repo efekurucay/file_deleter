@@ -46,7 +46,7 @@ def confirm_excluding():
     answer = input()
 
     if answer.lower() != 'yes':
-        print(f'> İptal edildi!')
+        print(f'> İptal edildi !')
 
     else:
         for file in files:
