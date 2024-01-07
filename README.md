@@ -1,5 +1,5 @@
 # About
-##### "Scroll down for the Turkish language"
+##### (Scroll down for the Turkish language)
 ##
 When using GitHub and Google Drive simultaneously, an issue arose.
 
