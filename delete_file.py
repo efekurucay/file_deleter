@@ -41,7 +41,7 @@ def confirm_exluding():
     global files, excluded
 
     print(f'>Serão excluidos {excluding} arquivos.')
-    print(f'>Digite "Yes" para confirmar exclusão..')
+    print(f'>Digite "Yes" para confirmar exclusão...')
 
     answer = input()
 
