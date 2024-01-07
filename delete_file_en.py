@@ -46,7 +46,7 @@ def confirm_excluding():
     answer = input()
 
     if answer.lower() != 'yes':
-        print(f'> Canceled!')
+        print(f'> Canceled !')
 
     else:
         for file in files:
