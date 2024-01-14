@@ -1,5 +1,5 @@
 # About
-##### (Scroll down for the Turkish language)
+##### (Türkçe için aşağı kaydır)
 ##
 When using GitHub and Google Drive simultaneously, an issue arose.
 
